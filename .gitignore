@@ -1,0 +1,15 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/crypto-tracker/node_modules
+/crypto-tracker-fe/node_modules
+
+/crypto-tracker-fe/.env
+/crypto-tracker/.env
+/crypto-tracker/.dist
+/crypto-tracker-fe/.next
+/crypto-tracker-fe/.next-env.d.ts
+
+# vercel
+
